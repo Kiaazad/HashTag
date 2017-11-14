@@ -10,3 +10,5 @@ HashTag will get a list of those files and calculates their checksum and adds th
 then HashTag will try to get the tags assigned to that checksum from other clients using P2P.
 The users can add a tag to the current list of tags shown on the right side by clicking and typing the new tag in the input shown above the list of tags.
 While idle, the users can press `gossip` button to allow the client chitchat and sync their tag database with other clients.
+The user can select one or more tags and HashTag will filter all of files to reveal all of the files with matching tags. also users can use `or` and `not` to refine their filtered result.
+As an additional idea: To avoid tag spamming and abuse the users can register their own username and sign their tags using a private key, other users can import or ignore a specific users tags.
