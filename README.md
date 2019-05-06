@@ -12,3 +12,6 @@ The users can add a tag to the current list of tags shown on the right side by c
 While idle, the users can press `gossip` button to allow the client chitchat and sync their tag database with other clients.
 The user can select one or more tags and HashTag will filter all of files to reveal all of the files with matching tags. also users can use `or` and `not` to refine their filtered result.
 As an additional idea: To avoid tag spamming and abuse the users can register their own username and sign their tags using a private key, other users can import or ignore a specific users tags.
+
+here's how I imagined it working
+![HashTag.jpeg](https://cdn.steemitimages.com/DQmVNan97cm3gz9GRTK6YeBxTf8kmCNZnaCDGwtajeTSTep/HashTag.jpeg)
